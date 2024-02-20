@@ -6,7 +6,7 @@ function aboutPage() {
       <h2>How to navigate to the about page</h2>
       <ol>
         <li>
-        First, you need to install React Router in your project. You can use npm or yarn for this purpose.
+        First, you need to install Rcd eact Router in your project. You can use npm or yarn for this purpose.
         </li>
         <li>
         In your application, you need to wrap your components with a BrowserRouter. his component provides the routing context for your application.
